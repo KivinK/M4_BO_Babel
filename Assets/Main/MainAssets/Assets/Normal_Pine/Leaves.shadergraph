@@ -1942,8 +1942,8 @@
     "m_ObjectId": "0401abaebb8e4e75b53a3fc7bda2ccd6",
     "m_Title": "Vertex Animation",
     "m_Position": {
-        "x": 3635.33349609375,
-        "y": 347.3333435058594
+        "x": 3685.999755859375,
+        "y": 348.0
     }
 }
 
@@ -2660,8 +2660,8 @@
     "m_ObjectId": "18d2d5d05b434374bef16bb8042e6392",
     "m_Title": "Grass Wind",
     "m_Position": {
-        "x": 1031.3338623046875,
-        "y": 806.0001220703125
+        "x": 1031.9998779296875,
+        "y": 806.0000610351563
     }
 }
 
@@ -2852,10 +2852,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 4034.666748046875,
-            "y": 664.666748046875,
-            "width": 446.000244140625,
-            "height": 289.33331298828127
+            "x": 4064.00048828125,
+            "y": 614.0000610351563,
+            "width": 434.0,
+            "height": 287.00006103515627
         }
     },
     "m_Slots": [
@@ -2898,7 +2898,7 @@
     ],
     "synonyms": [],
     "m_Precision": 0,
-    "m_PreviewExpanded": false,
+    "m_PreviewExpanded": true,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -3434,10 +3434,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 3692.0,
-            "y": 886.0000610351563,
-            "width": 120.666748046875,
-            "height": 36.0
+            "x": 3743.999755859375,
+            "y": 877.9999389648438,
+            "width": 118.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -3876,8 +3876,8 @@
     "m_ObjectId": "3438c89a729b4c4cb30c5c6b0611f02e",
     "m_Title": "Normal",
     "m_Position": {
-        "x": 942.6669921875,
-        "y": 1730.0
+        "x": 943.0,
+        "y": 1730.0001220703125
     }
 }
 
@@ -5095,10 +5095,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 3660.666748046875,
-            "y": 778.666748046875,
-            "width": 121.333251953125,
-            "height": 36.0
+            "x": 3744.999755859375,
+            "y": 745.9999389648438,
+            "width": 118.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -8445,8 +8445,8 @@
     "m_ObjectId": "9ab45c39935e47d4b310c9bbc6908853",
     "m_Title": "AO is darker at the bottom and brighter at the top",
     "m_Position": {
-        "x": 786.000244140625,
-        "y": 1432.0
+        "x": 785.9998168945313,
+        "y": 1432.0001220703125
     }
 }
 
@@ -9602,10 +9602,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 3726.666748046875,
-            "y": 846.666748046875,
-            "width": 139.333251953125,
-            "height": 36.0
+            "x": 3740.0,
+            "y": 836.0,
+            "width": 136.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -10555,8 +10555,8 @@
     "m_ObjectId": "d26ec6e4afee45b88cd70cbc407368fc",
     "m_Title": "Subsurface Scattering",
     "m_Position": {
-        "x": 1520.666748046875,
-        "y": 2026.6668701171875
+        "x": 1521.0001220703125,
+        "y": 2027.000244140625
     }
 }
 
@@ -12374,10 +12374,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 3684.0,
-            "y": 812.6666870117188,
-            "width": 122.666748046875,
-            "height": 36.0
+            "x": 3737.0,
+            "y": 794.0,
+            "width": 120.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -12675,7 +12675,7 @@
     "m_Hidden": false,
     "m_PerRendererData": false,
     "m_customAttributes": [],
-    "m_Value": 0.10000000149011612,
+    "m_Value": 1.0,
     "m_FloatType": 0,
     "m_LiteralFloatMode": false,
     "m_RangeValues": {

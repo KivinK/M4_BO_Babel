@@ -121,10 +121,10 @@ Material:
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
     - _ExcludeFromTUAndAA: 0
-    - _Float: 0
-    - _Float_1: 0.58
-    - _Float_2: 7.75
-    - _Float_3: 4.6
+    - _Float: 0.1
+    - _Float_1: 0
+    - _Float_2: 0
+    - _Float_3: 0
     - _GroundFalloff: 1
     - _MaterialID: 1
     - _MaterialTypeMask: 66
@@ -179,8 +179,8 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _SSSColor: {r: 1, g: 1, b: 1, a: 0}
     - _Thickness_Remap: {r: 0, g: 1, b: 0, a: 0}
-    - _Vector2: {r: -348, g: 16.13, b: 0, a: 0}
-    - _Vector3: {r: -0.02, g: -2.98, b: -16.64, a: 0}
+    - _Vector2: {r: 0, g: 0, b: 0, a: 0}
+    - _Vector3: {r: 0, g: -1.83, b: 4.23, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &8264611272896371599
