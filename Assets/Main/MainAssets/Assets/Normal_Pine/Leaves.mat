@@ -86,7 +86,7 @@ Material:
     - Distance_Fade_Start: 40
     - Vector1_593c5cea6c4a42e993ed03ced4685732: 0.5
     - Vector1_8651797e3e304e108dbd25f9d5a426ba: 0.5
-    - Vector1_a5b8b09028ce49a39f4d090894c89e22: 0.5
+    - Vector1_a5b8b09028ce49a39f4d090894c89e22: 0.72
     - Vector1_a6983181c8dc4691ba6a28a34c4223a6: 1
     - Wind_Blast: 0.05
     - Wind_Intensity: 0.1
@@ -104,6 +104,8 @@ Material:
     - _Blend: 0
     - _BlendMode: 0
     - _BlendModePreserveSpecular: 0
+    - _Boolean: 1
+    - _Boolean_1: 1
     - _CastShadows: 1
     - _ConservativeDepthOffsetEnable: 0
     - _Cull: 0
@@ -119,6 +121,10 @@ Material:
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
     - _ExcludeFromTUAndAA: 0
+    - _Float: 0
+    - _Float_1: 0.58
+    - _Float_2: 7.75
+    - _Float_3: 4.6
     - _GroundFalloff: 1
     - _MaterialID: 1
     - _MaterialTypeMask: 66
@@ -173,6 +179,8 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _SSSColor: {r: 1, g: 1, b: 1, a: 0}
     - _Thickness_Remap: {r: 0, g: 1, b: 0, a: 0}
+    - _Vector2: {r: -348, g: 16.13, b: 0, a: 0}
+    - _Vector3: {r: -0.02, g: -2.98, b: -16.64, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &8264611272896371599
