@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2640793542049381701}
   - component: {fileID: 234482905444731279}
   m_Layer: 0
-  m_Name: Normal_Pine_JOINED
+  m_Name: Pine1_Joined
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
