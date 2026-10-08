@@ -360537,6 +360537,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Normal_Pine_JOINED (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4248555399528229835, guid: fec285b570cfe2740abf93f0bdd141b2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 096e2b80c0fdaba4e8511affc3a71b06, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -485330,6 +485334,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Normal_Pine_JOINED (112)
       objectReference: {fileID: 0}
+    - target: {fileID: 4248555399528229835, guid: fec285b570cfe2740abf93f0bdd141b2, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 096e2b80c0fdaba4e8511affc3a71b06, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

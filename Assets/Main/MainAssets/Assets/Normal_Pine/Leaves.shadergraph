@@ -1942,8 +1942,8 @@
     "m_ObjectId": "0401abaebb8e4e75b53a3fc7bda2ccd6",
     "m_Title": "Vertex Animation",
     "m_Position": {
-        "x": 3683.0,
-        "y": 445.0
+        "x": 3682.66650390625,
+        "y": 444.6665954589844
     }
 }
 
@@ -2660,7 +2660,7 @@
     "m_ObjectId": "18d2d5d05b434374bef16bb8042e6392",
     "m_Title": "Grass Wind",
     "m_Position": {
-        "x": 1032.0,
+        "x": 1031.3333740234375,
         "y": 806.0
     }
 }
@@ -3876,8 +3876,8 @@
     "m_ObjectId": "3438c89a729b4c4cb30c5c6b0611f02e",
     "m_Title": "Normal",
     "m_Position": {
-        "x": 943.0,
-        "y": 1730.0
+        "x": 942.6666259765625,
+        "y": 1729.9998779296875
     }
 }
 
@@ -7791,10 +7791,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 3714.666748046875,
-            "y": 564.666748046875,
-            "width": 120.666748046875,
-            "height": 35.99993896484375
+            "x": 3714.66650390625,
+            "y": 566.0,
+            "width": 120.66650390625,
+            "height": 36.0
         }
     },
     "m_Slots": [
@@ -8445,8 +8445,8 @@
     "m_ObjectId": "9ab45c39935e47d4b310c9bbc6908853",
     "m_Title": "AO is darker at the bottom and brighter at the top",
     "m_Position": {
-        "x": 786.0,
-        "y": 1432.0
+        "x": 786.0000610351563,
+        "y": 1431.9998779296875
     }
 }
 
@@ -10555,8 +10555,8 @@
     "m_ObjectId": "d26ec6e4afee45b88cd70cbc407368fc",
     "m_Title": "Subsurface Scattering",
     "m_Position": {
-        "x": 1521.0,
-        "y": 2027.0
+        "x": 1520.6666259765625,
+        "y": 2026.66650390625
     }
 }
 
@@ -11403,10 +11403,10 @@
         "m_Expanded": false,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2542.0,
-            "y": 1845.0,
-            "width": 179.0,
-            "height": 176.9998779296875
+            "x": 2563.3330078125,
+            "y": 1872.66650390625,
+            "width": 184.0,
+            "height": 179.999755859375
         }
     },
     "m_Slots": [
@@ -11607,10 +11607,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 2345.0,
-            "y": 1873.0,
-            "width": 135.0,
-            "height": 34.0
+            "x": 2353.33349609375,
+            "y": 1881.3333740234375,
+            "width": 138.666748046875,
+            "height": 36.0001220703125
         }
     },
     "m_Slots": [
