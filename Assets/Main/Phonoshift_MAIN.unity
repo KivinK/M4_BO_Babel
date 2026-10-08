@@ -10483,7 +10483,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &64651439
 Transform:
   m_ObjectHideFlags: 0
@@ -37405,7 +37405,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &239988517
 Transform:
   m_ObjectHideFlags: 0
@@ -37457,7 +37457,7 @@ MonoBehaviour:
   m_IsGlobal: 0
   priority: 1
   blendDistance: 102.7
-  weight: 0.68
+  weight: 0.942
   sharedProfile: {fileID: 11400000, guid: a4a00be84ad81fd4f9cb007a24861248, type: 2}
 --- !u!64 &240501601
 MeshCollider:
@@ -108233,7 +108233,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6896e3f81062b424887c9abf3b8d3c82, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -155162,7 +155162,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &993445269
 Transform:
   m_ObjectHideFlags: 0
@@ -272227,7 +272227,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1761734594
 Transform:
   m_ObjectHideFlags: 0
@@ -319397,7 +319397,7 @@ MonoBehaviour:
   m_IsGlobal: 1
   priority: 0
   blendDistance: 792.5
-  weight: 1
+  weight: 0.177
   sharedProfile: {fileID: 11400000, guid: e98591595b06b6343943c1e235451d8f, type: 2}
 --- !u!1 &2056387483 stripped
 GameObject:
