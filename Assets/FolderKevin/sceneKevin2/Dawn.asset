@@ -27,10 +27,10 @@ MonoBehaviour:
     m_Value: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   tint:
     m_OverrideState: 1
-    m_Value: {r: 0.6603774, g: 0.6603774, b: 0.6603774, a: 1}
+    m_Value: {r: 0.6415094, g: 0.6184493, b: 0.6021716, a: 1}
   maxFogDistance:
     m_OverrideState: 1
-    m_Value: 5341.1
+    m_Value: 3649.1
   mipFogMaxMip:
     m_OverrideState: 1
     m_Value: 0.5
@@ -42,13 +42,13 @@ MonoBehaviour:
     m_Value: 1000
   baseHeight:
     m_OverrideState: 1
-    m_Value: 121.6
+    m_Value: 42.1
   maximumHeight:
     m_OverrideState: 1
-    m_Value: 412.55
+    m_Value: 892.8
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 173.9
+    m_Value: 237.79
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 1
@@ -60,7 +60,7 @@ MonoBehaviour:
     m_Value: 1
   depthExtent:
     m_OverrideState: 1
-    m_Value: 64
+    m_Value: 172.99
   denoisingMode:
     m_OverrideState: 1
     m_Value: 2
@@ -155,8 +155,8 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 0
   exposure:
-    m_OverrideState: 1
-    m_Value: 0.5
+    m_OverrideState: 0
+    m_Value: 9.48
   multiplier:
     m_OverrideState: 1
     m_Value: 1
@@ -356,7 +356,7 @@ MonoBehaviour:
     m_Value: 0
   length:
     m_OverrideState: 1
-    m_Value: 0.379
+    m_Value: 0.5
   opacity:
     m_OverrideState: 1
     m_Value: 1
@@ -411,7 +411,7 @@ MonoBehaviour:
     m_Value: 2.7889447
   compensation:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1.14
   limitMin:
     m_OverrideState: 0
     m_Value: -1
@@ -556,13 +556,13 @@ MonoBehaviour:
     m_Value: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 1.03
+    m_Value: 1.12
   directLightingStrength:
     m_OverrideState: 1
     m_Value: 0.414
   radius:
     m_OverrideState: 1
-    m_Value: 2
+    m_Value: 3.58
   spatialBilateralAggressiveness:
     m_OverrideState: 1
     m_Value: 0.15
@@ -591,13 +591,13 @@ MonoBehaviour:
     m_Value: 1
   m_StepCount:
     m_OverrideState: 1
-    m_Value: 22
+    m_Value: 23
   m_FullResolution:
     m_OverrideState: 1
     m_Value: 0
   m_MaximumRadiusInPixels:
     m_OverrideState: 1
-    m_Value: 211
+    m_Value: 245
   m_BilateralUpsample:
     m_OverrideState: 1
     m_Value: 1
@@ -796,16 +796,16 @@ MonoBehaviour:
   active: 1
   indirectDiffuseLightingMultiplier:
     m_OverrideState: 1
-    m_Value: 3.05
+    m_Value: 0
   indirectDiffuseLightingLayers:
     m_OverrideState: 0
     m_Value: 65535
   reflectionLightingMultiplier:
-    m_OverrideState: 0
-    m_Value: 0.3
+    m_OverrideState: 1
+    m_Value: 1.29
   reflectionLightingLayers:
     m_OverrideState: 0
     m_Value: 65535
   reflectionProbeIntensityMultiplier:
     m_OverrideState: 0
-    m_Value: 546
+    m_Value: 496.89
