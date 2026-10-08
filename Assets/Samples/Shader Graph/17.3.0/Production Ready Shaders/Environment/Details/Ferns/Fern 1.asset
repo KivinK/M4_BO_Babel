@@ -56,15 +56,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_8713F080:
-        m_Texture: {fileID: 2800000, guid: 55e94088b00bd354ba9333979ca1f8fa, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_9DCAAA49:
-        m_Texture: {fileID: 2800000, guid: 6e96a13009e427342b5fb18df6af5f43, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_A5E0646:
-        m_Texture: {fileID: 2800000, guid: aac60b0547f380d4db22446a7ad21c64, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_E1B0D043:
@@ -94,8 +94,8 @@ Material:
     m_Ints: []
     m_Floats:
     - Animation_Cutoff: 30
-    - Distance_Fade_End: 140
-    - Distance_Fade_Start: 40
+    - Distance_Fade_End: 1000
+    - Distance_Fade_Start: 1000
     - Dither_Scale: 2.108
     - Enable_Blend_Terrain_Color: 0
     - Terrain_Blend_A: 0
@@ -103,9 +103,9 @@ Material:
     - Terrain_Blend_G: 0
     - Terrain_Blend_R: 0
     - Vector1_593c5cea6c4a42e993ed03ced4685732: 1
-    - Vector1_8651797e3e304e108dbd25f9d5a426ba: 0.575
+    - Vector1_8651797e3e304e108dbd25f9d5a426ba: 0.041
     - Vector1_a5b8b09028ce49a39f4d090894c89e22: 0.75
-    - Vector1_a6983181c8dc4691ba6a28a34c4223a6: 2
+    - Vector1_a6983181c8dc4691ba6a28a34c4223a6: 0
     - Wind_Blast: 0.05
     - Wind_Intensity: 0.1
     - Wind_Ripples: 0.05
@@ -198,7 +198,7 @@ Material:
     - SplatR: {r: 0, g: 0, b: 0, a: 0}
     - Terrain_Origin: {r: 0, g: 0, b: 0, a: 0}
     - Terrain_Scale: {r: 0, g: 0, b: 0, a: 0}
-    - _AORemap: {r: 0.1, g: 1, b: 0, a: 0}
+    - _AORemap: {r: 1, g: 1, b: 0, a: 0}
     - _BlendScale: {r: 2, g: 2, b: 0, a: 0}
     - _DiffusionProfileAsset: {r: -5.7855046e-23, g: -2.7243504e-36, b: -1.8891285e+22, a: -12817017}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
