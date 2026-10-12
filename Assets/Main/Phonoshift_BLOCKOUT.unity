@@ -15999,7 +15999,7 @@ Light:
   serializedVersion: 12
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 40477.37
+  m_Intensity: 112839.805
   m_Range: 24.82461
   m_SpotAngle: 31.468061
   m_InnerSpotAngle: 20.935774
@@ -102594,7 +102594,6 @@ MonoBehaviour:
   m_Script: {fileID: 1591542038}
   m_Name: 
   m_EditorClassIdentifier: Unity.RenderPipelines.HighDefinition.Runtime::UnityEngine.Rendering.HighDefinition.SceneObjectIDMapSceneAsset
-  m_Entries: []
 --- !u!4 &402308393
 Transform:
   m_ObjectHideFlags: 19
@@ -256159,7 +256158,7 @@ Light:
   serializedVersion: 12
   m_Type: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 40477.37
+  m_Intensity: 112839.805
   m_Range: 22.381094
   m_SpotAngle: 31.468061
   m_InnerSpotAngle: 20.935774
@@ -328549,7 +328548,6 @@ GameObject:
   - component: {fileID: 1373207683}
   - component: {fileID: 1373207685}
   - component: {fileID: 1373207684}
-  - component: {fileID: 1373207686}
   m_Layer: 0
   m_Name: Village1
   m_TagString: Untagged
@@ -328610,20 +328608,6 @@ MonoBehaviour:
   blendDistance: 218.2
   weight: 1
   sharedProfile: {fileID: 11400000, guid: 15260f57062fa78459a5005d8097e2de, type: 2}
---- !u!114 &1373207686
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1373207682}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 846004268a4ddee499e24d86b4d5120f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::VolumeBlendTrigger
-  targetVolume: {fileID: 1497756134}
-  blendSpeed: 1
 --- !u!1001 &1373778454
 PrefabInstance:
   m_ObjectHideFlags: 0
