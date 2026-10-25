@@ -1774,8 +1774,8 @@
     "m_ObjectId": "0621e849d7904bf29efe404ef643ca76",
     "m_Title": "Translucency",
     "m_Position": {
-        "x": -2756.999755859375,
-        "y": -263.9999694824219
+        "x": -2757.0,
+        "y": -264.0
     }
 }
 
@@ -3934,7 +3934,7 @@
     "m_ObjectId": "4b5bf0081971482b921a80ea00172eec",
     "m_Title": "Wind and wind response",
     "m_Position": {
-        "x": -1522.9998779296875,
+        "x": -1523.0,
         "y": -1359.0
     }
 }
@@ -4878,7 +4878,7 @@
     "m_ObjectId": "6597207743f0409aaa3c29045004abe5",
     "m_Title": "Distance Clipping",
     "m_Position": {
-        "x": -1117.9998779296875,
+        "x": -1118.0,
         "y": -89.0
     }
 }
@@ -5767,7 +5767,7 @@
     "m_ObjectId": "85ec8c2e101d41778d2e7ecfc17064fd",
     "m_Title": "Base To Tip Gradient",
     "m_Position": {
-        "x": -1286.9998779296875,
+        "x": -1287.0,
         "y": -786.0
     }
 }
@@ -8876,8 +8876,8 @@
     "m_ObjectId": "d5419b2b1a084205b26daf3d176f7325",
     "m_Title": "Blade Color Variation",
     "m_Position": {
-        "x": -2292.999755859375,
-        "y": -994.9999389648438
+        "x": -2293.0,
+        "y": -995.0
     }
 }
 
