@@ -47,7 +47,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture_1:
-        m_Texture: {fileID: 2800000, guid: 5d4adfcddbcc23b49aaec347f8ccb6a4, type: 3}
+        m_Texture: {fileID: 2800000, guid: 7125fb3a635f49c489b1b1d41f74f393, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture_1_:
@@ -55,7 +55,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture_1_Normal:
-        m_Texture: {fileID: 2800000, guid: 102344b8c76085544abd7d769de406c8, type: 3}
+        m_Texture: {fileID: 2800000, guid: c7c203576a900874c87c2d2b447752f1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture_2:
@@ -64,6 +64,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _Texture_2_:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture_2_Normal:
+        m_Texture: {fileID: 2800000, guid: 102344b8c76085544abd7d769de406c8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -99,7 +103,8 @@ Material:
     - _ExcludeFromTUAndAA: 0
     - _MaterialID: 1
     - _MaterialTypeMask: 2
-    - _Normal_strenght: 0
+    - _Normal_strenght: 1.02
+    - _Normal_strenght2: 2.59
     - _OpaqueCullMode: 2
     - _PerPixelSorting: 0
     - _RayTracing: 0
@@ -108,7 +113,7 @@ Material:
     - _RefractionModel: 0
     - _RenderQueueType: 1
     - _RequireSplitLighting: 0
-    - _Smoothness_1_strenght: 0
+    - _Smoothness_1_strenght: 0.58
     - _SrcBlend: 1
     - _StencilRef: 0
     - _StencilRefDepth: 8
