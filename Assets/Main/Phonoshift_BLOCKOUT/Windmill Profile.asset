@@ -262,7 +262,7 @@ MonoBehaviour:
     m_Value: {fileID: 8900000, guid: c748483d4834c77479fe9b544f54e34e, type: 3}
   distortionMode:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: 1
   flowmap:
     m_OverrideState: 1
     m_Value: {fileID: 0}
@@ -270,17 +270,17 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1
   scrollOrientation:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value:
       mode: 0
-      customValue: 151
+      customValue: 51
       additiveValue: 0
       multiplyValue: 1
   scrollSpeed:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value:
       mode: 0
-      customValue: 200
+      customValue: -200
       additiveValue: 0
       multiplyValue: 1
   sunInitialRotation:

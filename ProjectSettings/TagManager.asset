@@ -9,6 +9,7 @@ TagManager:
   - Teleport
   - JumpCube
   - Mechanism
+  - Camera_imges
   layers:
   - Default
   - TransparentFX
