@@ -5,21 +5,24 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/FolderStan/SceneStan.unity
-    guid: 8124e5870f4fd4c779e7a5f994e84ad1
-  - enabled: 0
-    path: Assets/Main/Phonoshift_MAIN.unity
-    guid: b814872171e78d345825789e301566de
   - enabled: 1
-    path: Assets/FolderMax/SceneSwitchTest/Persistent Scene.unity
-    guid: 1433aa478ef0d4a4b9cd4f0766937e00
+    path: Assets/Main/PLayable scenes/Phonoshift_Campfire.unity
+    guid: e2083b3ddcbb9d9439ef379c5a64846d
   - enabled: 1
-    path: Assets/FolderMax/SceneSwitchTest/Area 2.unity
-    guid: f5c1dac747a622f49967a7b420c3600b
+    path: Assets/Main/PLayable scenes/Phonoshift_Village1START.unity
+    guid: cc487a607348ec44fb08f1810f0e04e5
   - enabled: 1
-    path: Assets/FolderMax/SceneSwitchTest/Area 1.unity
-    guid: 96a6aaf497598744785247fe35887be8
+    path: Assets/Main/PLayable scenes/Phonoshift_Village1.unity
+    guid: eefc012fb2f82694b8500eb44f61690f
+  - enabled: 1
+    path: Assets/Main/PLayable scenes/Phonoshift_WindMill.unity
+    guid: 70d84725b05348147bc5439c5f0ef48b
+  - enabled: 1
+    path: Assets/Main/PLayable scenes/Phonoshift_Plaza.unity
+    guid: 2f33c371a88ffb24b9ee6d9bc2721ef3
+  - enabled: 1
+    path: Assets/Main/PLayable scenes/Phonoshift_Tower.unity
+    guid: 839f04f310e874b43ba05e10ee9658d3
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 35845fe01580c41289b024647b1d1c53, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 589d4a0e12f53d04b9b1ab6124731ff1, type: 2}
