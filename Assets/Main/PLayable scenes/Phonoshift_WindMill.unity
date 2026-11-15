@@ -34750,7 +34750,7 @@ PrefabInstance:
     - target: {fileID: -1404086235377219246, guid: 5c7860131d2cd144a8736bd07f7b9d51, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 5450452a1367f54418bf5207d3046ae4, type: 2}
+      objectReference: {fileID: 2100000, guid: cbe075ce5dd8f1243b3ca64cec88ed27, type: 2}
     - target: {fileID: 919132149155446097, guid: 5c7860131d2cd144a8736bd07f7b9d51, type: 3}
       propertyPath: m_Name
       value: BO_Whale_grown_ani (6)
@@ -147643,7 +147643,7 @@ Transform:
   m_GameObject: {fileID: 578133680}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.9627402, z: -0, w: -0.27042824}
-  m_LocalPosition: {x: -425.16, y: 500.34302, z: -795.44104}
+  m_LocalPosition: {x: -425.16, y: 796, z: -795.44104}
   m_LocalScale: {x: 30.731268, y: 30.731256, z: 30.731268}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -190682,7 +190682,7 @@ PrefabInstance:
     - target: {fileID: -1404086235377219246, guid: 5c7860131d2cd144a8736bd07f7b9d51, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 5450452a1367f54418bf5207d3046ae4, type: 2}
+      objectReference: {fileID: 2100000, guid: cbe075ce5dd8f1243b3ca64cec88ed27, type: 2}
     - target: {fileID: 919132149155446097, guid: 5c7860131d2cd144a8736bd07f7b9d51, type: 3}
       propertyPath: m_Name
       value: BO_Whale_grown_ani (3)
@@ -193184,11 +193184,11 @@ PrefabInstance:
     - target: {fileID: -4620092221820033357, guid: a5e8365ea59198e44b2c634548d0bbe6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 8f1d84556f0b4a24ca0bf103c8cfe339, type: 2}
+      objectReference: {fileID: 2100000, guid: fa8b9be791bbf2441b9556b500c000a4, type: 2}
     - target: {fileID: -4620092221820033357, guid: a5e8365ea59198e44b2c634548d0bbe6, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: fe42268c182537949be40769fb558848, type: 2}
+      objectReference: {fileID: 2100000, guid: baec0ada788865645b251d09ec5695cd, type: 2}
     - target: {fileID: -4604201535584647131, guid: a5e8365ea59198e44b2c634548d0bbe6, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
@@ -219497,7 +219497,7 @@ PrefabInstance:
     - target: {fileID: -1404086235377219246, guid: 5c7860131d2cd144a8736bd07f7b9d51, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 5450452a1367f54418bf5207d3046ae4, type: 2}
+      objectReference: {fileID: 2100000, guid: cbe075ce5dd8f1243b3ca64cec88ed27, type: 2}
     - target: {fileID: 919132149155446097, guid: 5c7860131d2cd144a8736bd07f7b9d51, type: 3}
       propertyPath: m_Name
       value: BO_Whale_grown_ani (8)
@@ -346073,7 +346073,7 @@ PrefabInstance:
     - target: {fileID: -1404086235377219246, guid: 5c7860131d2cd144a8736bd07f7b9d51, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 5450452a1367f54418bf5207d3046ae4, type: 2}
+      objectReference: {fileID: 2100000, guid: cbe075ce5dd8f1243b3ca64cec88ed27, type: 2}
     - target: {fileID: 919132149155446097, guid: 5c7860131d2cd144a8736bd07f7b9d51, type: 3}
       propertyPath: m_Name
       value: BO_Whale_grown_ani (2)
@@ -381222,7 +381222,7 @@ PrefabInstance:
     - target: {fileID: -1404086235377219246, guid: 5c7860131d2cd144a8736bd07f7b9d51, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 5450452a1367f54418bf5207d3046ae4, type: 2}
+      objectReference: {fileID: 2100000, guid: cbe075ce5dd8f1243b3ca64cec88ed27, type: 2}
     - target: {fileID: 919132149155446097, guid: 5c7860131d2cd144a8736bd07f7b9d51, type: 3}
       propertyPath: m_Name
       value: BO_Whale_grown_ani (4)
@@ -396567,7 +396567,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1625125167
 Transform:
   m_ObjectHideFlags: 0
@@ -498439,7 +498439,7 @@ PrefabInstance:
     - target: {fileID: -1404086235377219246, guid: 5c7860131d2cd144a8736bd07f7b9d51, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 5450452a1367f54418bf5207d3046ae4, type: 2}
+      objectReference: {fileID: 2100000, guid: cbe075ce5dd8f1243b3ca64cec88ed27, type: 2}
     - target: {fileID: 919132149155446097, guid: 5c7860131d2cd144a8736bd07f7b9d51, type: 3}
       propertyPath: m_Name
       value: BO_Whale_grown_ani (5)
@@ -508016,7 +508016,7 @@ PrefabInstance:
     - target: {fileID: -1404086235377219246, guid: 5c7860131d2cd144a8736bd07f7b9d51, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 5450452a1367f54418bf5207d3046ae4, type: 2}
+      objectReference: {fileID: 2100000, guid: cbe075ce5dd8f1243b3ca64cec88ed27, type: 2}
     - target: {fileID: 919132149155446097, guid: 5c7860131d2cd144a8736bd07f7b9d51, type: 3}
       propertyPath: m_Name
       value: BO_Whale_grown_ani (7)
