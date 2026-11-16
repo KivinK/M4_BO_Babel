@@ -82,11 +82,11 @@ Material:
     m_Ints: []
     m_Floats:
     - Animation_Cutoff: 100
-    - Distance_Fade_End: 1000
+    - Distance_Fade_End: 10000
     - Distance_Fade_Start: 150
     - Vector1_593c5cea6c4a42e993ed03ced4685732: 0
     - Vector1_8651797e3e304e108dbd25f9d5a426ba: 0
-    - Vector1_a5b8b09028ce49a39f4d090894c89e22: 0.84
+    - Vector1_a5b8b09028ce49a39f4d090894c89e22: 0.991
     - Vector1_a6983181c8dc4691ba6a28a34c4223a6: 0
     - Wind_Blast: 0.05
     - Wind_Intensity: 0.1
