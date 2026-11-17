@@ -541,8 +541,8 @@
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": 262.00006103515627,
-            "y": 339.0000305175781
+            "x": 259.9999694824219,
+            "y": 341.0
         },
         "m_Blocks": [
             {
@@ -1061,8 +1061,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1541.9998779296875,
-            "y": -280.0,
+            "x": -1542.0001220703125,
+            "y": -276.0000305175781,
             "width": 135.0,
             "height": 34.0
         }
@@ -1495,7 +1495,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Texture2DMaterialSlot",
     "m_ObjectId": "31b9f85bbbb44281b16f2dbf3fe062a2",
     "m_Id": 0,
-    "m_DisplayName": "Smoothness_!",
+    "m_DisplayName": "Smoothness_",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -1577,9 +1577,9 @@
     "promotedFromAssetID": "",
     "promotedFromCategoryName": "",
     "promotedOrdering": -1,
-    "m_Name": "Color (1)",
+    "m_Name": "Color_1",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Color (1)",
+    "m_RefNameGeneratedByDisplayName": "Color_1",
     "m_DefaultReferenceName": "_Color_1",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
@@ -1682,8 +1682,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1733.9998779296875,
-            "y": 1701.9998779296875,
+            "x": -1735.0001220703125,
+            "y": 1702.0001220703125,
             "width": 177.0,
             "height": 34.0
         }
@@ -3227,9 +3227,9 @@
     "promotedFromAssetID": "",
     "promotedFromCategoryName": "",
     "promotedOrdering": -1,
-    "m_Name": "Smoothness_!",
+    "m_Name": "Smoothness_",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Smoothness_!",
+    "m_RefNameGeneratedByDisplayName": "Smoothness_",
     "m_DefaultReferenceName": "_Smoothness_",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,

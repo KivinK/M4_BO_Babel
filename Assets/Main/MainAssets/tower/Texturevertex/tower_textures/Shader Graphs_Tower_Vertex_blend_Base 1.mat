@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_Tower_Vertex_blend_Base
+  m_Name: Shader Graphs_Tower_Vertex_blend_Base 1
   m_Shader: {fileID: -6465566751694194690, guid: 3b4269f329befb64c9c4073c041750fa, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -30,6 +30,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 5d4adfcddbcc23b49aaec347f8ccb6a4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Smoothness_:
         m_Texture: {fileID: 2800000, guid: 8b44d5281c398e54a801919c67c03f3c, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -120,7 +124,7 @@ Material:
     - _ZTestGBuffer: 4
     - _ZTestTransparent: 4
     - _ZWrite: 1
-    - _power: 0.39
+    - _power: 1.5
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color_1: {r: 0, g: 0, b: 0, a: 1}
