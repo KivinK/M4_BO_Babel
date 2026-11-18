@@ -103349,6 +103349,7 @@ MonoBehaviour:
   m_Script: {fileID: 1591542038}
   m_Name: 
   m_EditorClassIdentifier: Unity.RenderPipelines.HighDefinition.Runtime::UnityEngine.Rendering.HighDefinition.SceneObjectIDMapSceneAsset
+  m_Entries: []
 --- !u!4 &402308393
 Transform:
   m_ObjectHideFlags: 19
@@ -194010,11 +194011,11 @@ PrefabInstance:
     - target: {fileID: -4620092221820033357, guid: a5e8365ea59198e44b2c634548d0bbe6, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 8f1d84556f0b4a24ca0bf103c8cfe339, type: 2}
+      objectReference: {fileID: 2100000, guid: 04e5311de47d5fe48a1bb6e9661c003d, type: 2}
     - target: {fileID: -4620092221820033357, guid: a5e8365ea59198e44b2c634548d0bbe6, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
-      objectReference: {fileID: 2100000, guid: fe42268c182537949be40769fb558848, type: 2}
+      objectReference: {fileID: 2100000, guid: baec0ada788865645b251d09ec5695cd, type: 2}
     - target: {fileID: -4604201535584647131, guid: a5e8365ea59198e44b2c634548d0bbe6, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 2147483647
