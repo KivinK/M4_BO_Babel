@@ -249718,127 +249718,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4597092847463954527, guid: 64ae4aa602db2f448a9d0ed38e1d7ad3, type: 3}
   m_PrefabInstance: {fileID: 1001127726}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &1001670593
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1001670600}
-  - component: {fileID: 1001670599}
-  - component: {fileID: 1001670598}
-  - component: {fileID: 1001670597}
-  - component: {fileID: 1001670596}
-  - component: {fileID: 1001670595}
-  - component: {fileID: 1001670594}
-  m_Layer: 0
-  m_Name: scneneswitcher
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1001670594
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1001670593}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 255c6b31fb6c7e44b9ac81e69f6e9cb0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ChangeSceneWithButton
-  _sceneName: Phonoshift_Tower
-  _keypress: 53
---- !u!114 &1001670595
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1001670593}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 255c6b31fb6c7e44b9ac81e69f6e9cb0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ChangeSceneWithButton
-  _sceneName: Phonoshift_Plaza
-  _keypress: 52
---- !u!114 &1001670596
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1001670593}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 255c6b31fb6c7e44b9ac81e69f6e9cb0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ChangeSceneWithButton
-  _sceneName: Phonoshift_WindMill
-  _keypress: 51
---- !u!114 &1001670597
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1001670593}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 255c6b31fb6c7e44b9ac81e69f6e9cb0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ChangeSceneWithButton
-  _sceneName: Phonoshift_Village1
-  _keypress: 50
---- !u!114 &1001670598
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1001670593}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 255c6b31fb6c7e44b9ac81e69f6e9cb0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ChangeSceneWithButton
-  _sceneName: Phonoshift_Village1START
-  _keypress: 49
---- !u!114 &1001670599
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1001670593}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 255c6b31fb6c7e44b9ac81e69f6e9cb0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ChangeSceneWithButton
-  _sceneName: Phonoshift_Campfire
-  _keypress: 48
---- !u!4 &1001670600
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1001670593}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0.2353441, y: -0.34730116, z: 0.09077576, w: 0.9031915}
-  m_LocalPosition: {x: 452.67902, y: 103.02186, z: 455.22025}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1002040883 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 251538542600359418, guid: 378f720adb04b5f4c93226713e908ec6, type: 3}
@@ -370581,6 +370460,127 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1483478650}
   m_Mesh: {fileID: 5030129775457090400, guid: 20f48c04967469b4abc4f9e68d974ccc, type: 3}
+--- !u!1 &1484017965
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1484017972}
+  - component: {fileID: 1484017971}
+  - component: {fileID: 1484017970}
+  - component: {fileID: 1484017969}
+  - component: {fileID: 1484017968}
+  - component: {fileID: 1484017967}
+  - component: {fileID: 1484017966}
+  m_Layer: 0
+  m_Name: scneneswitcher
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1484017966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1484017965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 255c6b31fb6c7e44b9ac81e69f6e9cb0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ChangeSceneWithButton
+  _sceneName: Phonoshift_Tower
+  _keypress: 54
+--- !u!114 &1484017967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1484017965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 255c6b31fb6c7e44b9ac81e69f6e9cb0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ChangeSceneWithButton
+  _sceneName: Phonoshift_Plaza
+  _keypress: 53
+--- !u!114 &1484017968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1484017965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 255c6b31fb6c7e44b9ac81e69f6e9cb0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ChangeSceneWithButton
+  _sceneName: Phonoshift_WindMill
+  _keypress: 52
+--- !u!114 &1484017969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1484017965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 255c6b31fb6c7e44b9ac81e69f6e9cb0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ChangeSceneWithButton
+  _sceneName: Phonoshift_Village1
+  _keypress: 51
+--- !u!114 &1484017970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1484017965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 255c6b31fb6c7e44b9ac81e69f6e9cb0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ChangeSceneWithButton
+  _sceneName: Phonoshift_Village1START
+  _keypress: 50
+--- !u!114 &1484017971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1484017965}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 255c6b31fb6c7e44b9ac81e69f6e9cb0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ChangeSceneWithButton
+  _sceneName: Phonoshift_Campfire
+  _keypress: 49
+--- !u!4 &1484017972
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1484017965}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.2353441, y: -0.34730116, z: 0.09077576, w: 0.9031915}
+  m_LocalPosition: {x: 452.67902, y: 103.02186, z: 455.22025}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!64 &1484823860
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -535065,4 +535065,4 @@ SceneRoots:
   - {fileID: 1130637717}
   - {fileID: 603769913}
   - {fileID: 1998076312}
-  - {fileID: 1001670600}
+  - {fileID: 1484017972}
